@@ -2,3 +2,5 @@ wpu resolusi:
 - bisa bahasa inggriss
 - jago data science
 - mahir copywriting
+- jago coding
+- mahir excel
